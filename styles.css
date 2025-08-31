@@ -52,3 +52,7 @@ body {
   color: #00ff00;
   margin: 0 10px;
 }
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Orbitron', sans-serif;
+  text-shadow: 0 0 10px #00ff00, 0 0 20px #00ff00, 0 0 30px #00ff00;
+}
